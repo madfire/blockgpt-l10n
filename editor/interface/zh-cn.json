@@ -613,7 +613,7 @@
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
     "gui.sharedMessages.clearCacheWarning": "确保你想要清除缓存并重启？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中上传",
-    "gui.gui.defaultProjectTitle": "OpenBlock作品",
+    "gui.gui.defaultProjectTitle": "BlockGPT作品",
     "gui.desktopMenuBar.about": "关于",
     "gui.desktopMenuBar.license": "许可证",
     "gui.menuBar.privacyPolicy": "隐私政策",
